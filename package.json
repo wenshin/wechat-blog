@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "glob": "^7.2.0",
+    "showdown": "^2.0.0-alpha"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.2.0",
+    "@types/showdown": "^1.9.4"
+  }
+}
